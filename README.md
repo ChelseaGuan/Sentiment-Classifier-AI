@@ -8,7 +8,7 @@ The program also outputs a file with relevant metrics (e.g. accuracy, precision,
 ### Development
  This project was developed in the PyCharm IDE from JetBrains. The language used is Python.
  
-## How Run the Code
+### How Run the Code
 
 Certain python libraries will need to be installed. To do so, open the command prompt, and execute from the current directory
 ```pip install -r requirements.txt```
@@ -16,4 +16,5 @@ Certain python libraries will need to be installed. To do so, open the command p
 In the same command prompt, execute
 ```python classifier.py```
 
-#### A sample data set and sample outputs are provided in the src folder along with the code
+### Sample output
+A sample data set and sample outputs are provided in the src folder along with the code
