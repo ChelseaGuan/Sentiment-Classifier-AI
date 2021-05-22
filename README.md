@@ -1,8 +1,8 @@
 # Sentiment-Classifier-AI
 
 ## About the Project
-Worked collaboratively in a team of four developers to develop a Python program to create a sentiment classifier using two different machine learning models: Naive Bayes and Decision Tree.
-Trained the model with 80% of the sentiment data set, in this case, a set of reviews. The program uses the other 20% to test the models ability ot predict whether a review is positive or negative.
+Worked collaboratively in a team of four developers to develop a Python program to create a sentiment classifier using two different machine learning models: Naive Bayes and Decision Tree.   
+Trained the model with 80% of the sentiment data set, in this case, a set of reviews. The program uses the other 20% to test the models ability ot predict whether a review is positive or negative.   
 The program also outputs a file with relevant metrics (e.g. accuracy, precision, recall, F1) and prediction results for each model.   
 
 ### Development
