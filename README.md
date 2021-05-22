@@ -19,4 +19,4 @@ In the same command prompt, execute
 ### Sample output
 The sample data set and sample outputs are provided in the src folder along with the code
 
-![Plot of the distribution of the number of the instances in each class]('Sample output'/nb_of_instances_in_each_class_histogram.PNG)  
+![Plot of the distribution of the number of the instances in each class](Sample output/nb_of_instances_in_each_class_histogram.PNG)  
