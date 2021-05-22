@@ -19,6 +19,8 @@ In the same command prompt, execute
 ### Sample output
 The sample data set all_sentiment_shuffled.txt is located in src with the Python script.
 Full sample outputs are provided in the 'Sample out files' folder.   
+
+#### Sample histogram plotting the distribution of the number of the instances in each class
 ![Plot of the distribution of the number of the instances in each class](Sample%20output%20files/nb_of_instances_in_each_class_histogram.PNG)  
 
 #### Output for the Naive Bayes classifier (NaiveBayesClassifier-all_sentiment_shuffled.txt)
