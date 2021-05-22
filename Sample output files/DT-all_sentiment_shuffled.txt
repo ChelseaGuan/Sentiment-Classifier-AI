@@ -1,0 +1,2422 @@
+LEGEND
+-----------------------
+0: neg
+1: pos
+
+
+CONFUSION MATRIX
+(row is true label, column is predicted label)
+-----------------------
+[[861 369]
+ [363 790]]
+
+
+PRECISION VALUES
+-----------------------
+neg: 0.7034313725490197
+pos: 0.6816220880069025
+
+
+RECALL VALUES
+-----------------------
+neg: 0.7
+pos: 0.6851691240242844
+
+
+F1-MEASURE VALUES
+-----------------------
+neg: 0.7017114914425429
+pos: 0.6833910034602075
+
+
+PREDICTION ACCURACY
+-----------------------
+The model's accuracy is: 0.6928241712127571
+
+
+BELOW ARE ALL THE PREDICTIONS MADE FOR EACH INSTANCES IN THE EVALUATION SET
+(0-indexed)
+--------------
+9531, 0
+9532, 0 [Misclassified]
+9533, 0
+9534, 1
+9535, 1
+9536, 0
+9537, 1
+9538, 1 [Misclassified]
+9539, 0
+9540, 0
+9541, 0
+9542, 1
+9543, 0
+9544, 0
+9545, 1
+9546, 1
+9547, 0 [Misclassified]
+9548, 1
+9549, 1 [Misclassified]
+9550, 1
+9551, 0 [Misclassified]
+9552, 1
+9553, 0
+9554, 0 [Misclassified]
+9555, 0
+9556, 0 [Misclassified]
+9557, 1
+9558, 0
+9559, 1
+9560, 1
+9561, 0 [Misclassified]
+9562, 1
+9563, 0 [Misclassified]
+9564, 0
+9565, 0 [Misclassified]
+9566, 0 [Misclassified]
+9567, 0 [Misclassified]
+9568, 0
+9569, 1 [Misclassified]
+9570, 0
+9571, 0
+9572, 1 [Misclassified]
+9573, 0
+9574, 1
+9575, 0 [Misclassified]
+9576, 0 [Misclassified]
+9577, 0
+9578, 1 [Misclassified]
+9579, 1 [Misclassified]
+9580, 1
+9581, 0 [Misclassified]
+9582, 0
+9583, 1
+9584, 1 [Misclassified]
+9585, 0
+9586, 1
+9587, 1
+9588, 1 [Misclassified]
+9589, 1
+9590, 0
+9591, 1 [Misclassified]
+9592, 1 [Misclassified]
+9593, 0
+9594, 1 [Misclassified]
+9595, 1 [Misclassified]
+9596, 1 [Misclassified]
+9597, 0
+9598, 1
+9599, 0
+9600, 1
+9601, 0
+9602, 0 [Misclassified]
+9603, 0
+9604, 1 [Misclassified]
+9605, 1
+9606, 0
+9607, 1
+9608, 1
+9609, 1 [Misclassified]
+9610, 1
+9611, 0
+9612, 0
+9613, 0
+9614, 1
+9615, 0
+9616, 0
+9617, 0 [Misclassified]
+9618, 1
+9619, 1
+9620, 1 [Misclassified]
+9621, 0 [Misclassified]
+9622, 0 [Misclassified]
+9623, 0
+9624, 0
+9625, 0 [Misclassified]
+9626, 1
+9627, 0
+9628, 1 [Misclassified]
+9629, 0
+9630, 0 [Misclassified]
+9631, 0
+9632, 0
+9633, 1 [Misclassified]
+9634, 0
+9635, 0
+9636, 1 [Misclassified]
+9637, 0
+9638, 1
+9639, 0 [Misclassified]
+9640, 1 [Misclassified]
+9641, 0
+9642, 0 [Misclassified]
+9643, 1
+9644, 1
+9645, 1
+9646, 0 [Misclassified]
+9647, 0
+9648, 0 [Misclassified]
+9649, 1
+9650, 0
+9651, 1 [Misclassified]
+9652, 0 [Misclassified]
+9653, 0
+9654, 0
+9655, 0
+9656, 1 [Misclassified]
+9657, 1
+9658, 0 [Misclassified]
+9659, 1 [Misclassified]
+9660, 1
+9661, 0
+9662, 0 [Misclassified]
+9663, 1
+9664, 0
+9665, 1 [Misclassified]
+9666, 0 [Misclassified]
+9667, 0
+9668, 1
+9669, 1 [Misclassified]
+9670, 0 [Misclassified]
+9671, 1
+9672, 0 [Misclassified]
+9673, 0
+9674, 0
+9675, 1 [Misclassified]
+9676, 0
+9677, 1
+9678, 0 [Misclassified]
+9679, 0
+9680, 1
+9681, 0
+9682, 0
+9683, 1
+9684, 0
+9685, 1 [Misclassified]
+9686, 1
+9687, 1
+9688, 1
+9689, 0
+9690, 1
+9691, 1
+9692, 0 [Misclassified]
+9693, 0
+9694, 1 [Misclassified]
+9695, 1
+9696, 1
+9697, 0
+9698, 0
+9699, 1 [Misclassified]
+9700, 0
+9701, 1
+9702, 1
+9703, 0
+9704, 1 [Misclassified]
+9705, 1
+9706, 1
+9707, 1
+9708, 0
+9709, 1
+9710, 1
+9711, 1
+9712, 0
+9713, 1 [Misclassified]
+9714, 1
+9715, 0
+9716, 0
+9717, 0 [Misclassified]
+9718, 1 [Misclassified]
+9719, 1
+9720, 0
+9721, 0
+9722, 1 [Misclassified]
+9723, 0
+9724, 1 [Misclassified]
+9725, 0
+9726, 0
+9727, 0 [Misclassified]
+9728, 0
+9729, 1
+9730, 1
+9731, 0
+9732, 1
+9733, 0
+9734, 0 [Misclassified]
+9735, 1
+9736, 0
+9737, 0
+9738, 1
+9739, 0
+9740, 1
+9741, 1
+9742, 1
+9743, 0
+9744, 1
+9745, 1
+9746, 0
+9747, 1
+9748, 0
+9749, 1
+9750, 0
+9751, 0
+9752, 1
+9753, 1 [Misclassified]
+9754, 1
+9755, 0 [Misclassified]
+9756, 0
+9757, 1 [Misclassified]
+9758, 1 [Misclassified]
+9759, 1
+9760, 1 [Misclassified]
+9761, 1 [Misclassified]
+9762, 0
+9763, 0
+9764, 1
+9765, 1 [Misclassified]
+9766, 0
+9767, 1
+9768, 1
+9769, 1
+9770, 1 [Misclassified]
+9771, 1
+9772, 1 [Misclassified]
+9773, 0
+9774, 0
+9775, 0 [Misclassified]
+9776, 1 [Misclassified]
+9777, 0
+9778, 1
+9779, 1
+9780, 1 [Misclassified]
+9781, 1
+9782, 1 [Misclassified]
+9783, 0
+9784, 0
+9785, 1
+9786, 1
+9787, 0
+9788, 1
+9789, 0
+9790, 1 [Misclassified]
+9791, 0
+9792, 0
+9793, 0 [Misclassified]
+9794, 1
+9795, 1
+9796, 0
+9797, 1 [Misclassified]
+9798, 1 [Misclassified]
+9799, 1 [Misclassified]
+9800, 0
+9801, 1
+9802, 1
+9803, 0 [Misclassified]
+9804, 0
+9805, 0
+9806, 1 [Misclassified]
+9807, 0
+9808, 0
+9809, 0
+9810, 0 [Misclassified]
+9811, 1
+9812, 1 [Misclassified]
+9813, 0
+9814, 0
+9815, 0
+9816, 1 [Misclassified]
+9817, 1 [Misclassified]
+9818, 1 [Misclassified]
+9819, 1 [Misclassified]
+9820, 0
+9821, 0
+9822, 1
+9823, 0 [Misclassified]
+9824, 1
+9825, 1 [Misclassified]
+9826, 0 [Misclassified]
+9827, 0
+9828, 0
+9829, 0 [Misclassified]
+9830, 0 [Misclassified]
+9831, 1 [Misclassified]
+9832, 1
+9833, 1
+9834, 0
+9835, 0 [Misclassified]
+9836, 1
+9837, 0
+9838, 0 [Misclassified]
+9839, 0 [Misclassified]
+9840, 1
+9841, 0
+9842, 0 [Misclassified]
+9843, 1
+9844, 1
+9845, 1
+9846, 1
+9847, 0 [Misclassified]
+9848, 0 [Misclassified]
+9849, 1 [Misclassified]
+9850, 1
+9851, 1
+9852, 0
+9853, 0 [Misclassified]
+9854, 1 [Misclassified]
+9855, 1 [Misclassified]
+9856, 1 [Misclassified]
+9857, 0
+9858, 1
+9859, 0
+9860, 1
+9861, 1
+9862, 1
+9863, 0
+9864, 0
+9865, 0
+9866, 1 [Misclassified]
+9867, 1 [Misclassified]
+9868, 0 [Misclassified]
+9869, 0
+9870, 1
+9871, 0 [Misclassified]
+9872, 0
+9873, 0 [Misclassified]
+9874, 0
+9875, 1
+9876, 0
+9877, 0
+9878, 0
+9879, 0 [Misclassified]
+9880, 0
+9881, 1 [Misclassified]
+9882, 0 [Misclassified]
+9883, 0 [Misclassified]
+9884, 0
+9885, 1 [Misclassified]
+9886, 0 [Misclassified]
+9887, 0
+9888, 1
+9889, 1
+9890, 0
+9891, 0
+9892, 0
+9893, 0
+9894, 0
+9895, 1 [Misclassified]
+9896, 1 [Misclassified]
+9897, 0 [Misclassified]
+9898, 1
+9899, 0 [Misclassified]
+9900, 1 [Misclassified]
+9901, 0 [Misclassified]
+9902, 0
+9903, 0 [Misclassified]
+9904, 1 [Misclassified]
+9905, 1
+9906, 0
+9907, 0 [Misclassified]
+9908, 0
+9909, 0 [Misclassified]
+9910, 0
+9911, 1
+9912, 1
+9913, 0
+9914, 1 [Misclassified]
+9915, 0
+9916, 0 [Misclassified]
+9917, 1
+9918, 1
+9919, 0
+9920, 1
+9921, 0 [Misclassified]
+9922, 1
+9923, 1
+9924, 0
+9925, 1
+9926, 0
+9927, 1
+9928, 0 [Misclassified]
+9929, 1
+9930, 0
+9931, 0
+9932, 1
+9933, 1 [Misclassified]
+9934, 1
+9935, 1
+9936, 0
+9937, 0 [Misclassified]
+9938, 0
+9939, 0 [Misclassified]
+9940, 1 [Misclassified]
+9941, 0
+9942, 0
+9943, 0 [Misclassified]
+9944, 1
+9945, 1 [Misclassified]
+9946, 1
+9947, 0
+9948, 0 [Misclassified]
+9949, 1
+9950, 1
+9951, 1
+9952, 1
+9953, 0
+9954, 1
+9955, 0 [Misclassified]
+9956, 0
+9957, 1
+9958, 0
+9959, 1
+9960, 1 [Misclassified]
+9961, 1 [Misclassified]
+9962, 1
+9963, 1
+9964, 0 [Misclassified]
+9965, 0 [Misclassified]
+9966, 0 [Misclassified]
+9967, 0 [Misclassified]
+9968, 1
+9969, 0
+9970, 0
+9971, 1
+9972, 1
+9973, 0
+9974, 0
+9975, 0
+9976, 0
+9977, 1
+9978, 1 [Misclassified]
+9979, 1
+9980, 1
+9981, 1 [Misclassified]
+9982, 0
+9983, 1 [Misclassified]
+9984, 1
+9985, 1
+9986, 1
+9987, 1
+9988, 1
+9989, 1
+9990, 0
+9991, 1 [Misclassified]
+9992, 0
+9993, 1 [Misclassified]
+9994, 1
+9995, 0
+9996, 1 [Misclassified]
+9997, 1
+9998, 0
+9999, 1 [Misclassified]
+10000, 0
+10001, 0
+10002, 1
+10003, 1 [Misclassified]
+10004, 1
+10005, 1 [Misclassified]
+10006, 1 [Misclassified]
+10007, 1
+10008, 0
+10009, 1
+10010, 1 [Misclassified]
+10011, 1 [Misclassified]
+10012, 0
+10013, 1
+10014, 1
+10015, 1
+10016, 0
+10017, 1
+10018, 0
+10019, 0 [Misclassified]
+10020, 0
+10021, 1 [Misclassified]
+10022, 1
+10023, 0
+10024, 0 [Misclassified]
+10025, 0
+10026, 1 [Misclassified]
+10027, 0
+10028, 0 [Misclassified]
+10029, 0
+10030, 1
+10031, 1 [Misclassified]
+10032, 0
+10033, 0
+10034, 1 [Misclassified]
+10035, 1
+10036, 1
+10037, 0
+10038, 1
+10039, 1
+10040, 1
+10041, 1
+10042, 0 [Misclassified]
+10043, 0 [Misclassified]
+10044, 1
+10045, 0
+10046, 0
+10047, 1
+10048, 0 [Misclassified]
+10049, 1 [Misclassified]
+10050, 0
+10051, 0
+10052, 0
+10053, 1
+10054, 0
+10055, 1
+10056, 1
+10057, 1
+10058, 1 [Misclassified]
+10059, 1
+10060, 0 [Misclassified]
+10061, 0
+10062, 1 [Misclassified]
+10063, 0
+10064, 1
+10065, 1
+10066, 1
+10067, 0 [Misclassified]
+10068, 0
+10069, 1 [Misclassified]
+10070, 1
+10071, 0
+10072, 0 [Misclassified]
+10073, 1
+10074, 0
+10075, 0
+10076, 1 [Misclassified]
+10077, 0
+10078, 1
+10079, 0
+10080, 1
+10081, 1 [Misclassified]
+10082, 1
+10083, 0
+10084, 1
+10085, 1
+10086, 0
+10087, 0
+10088, 1
+10089, 0 [Misclassified]
+10090, 0
+10091, 0 [Misclassified]
+10092, 0 [Misclassified]
+10093, 1 [Misclassified]
+10094, 1 [Misclassified]
+10095, 0 [Misclassified]
+10096, 1 [Misclassified]
+10097, 0
+10098, 0
+10099, 0
+10100, 0
+10101, 1
+10102, 0
+10103, 1
+10104, 1
+10105, 0
+10106, 0
+10107, 0
+10108, 0
+10109, 1 [Misclassified]
+10110, 0 [Misclassified]
+10111, 0
+10112, 1
+10113, 1
+10114, 0
+10115, 0
+10116, 1
+10117, 1
+10118, 0
+10119, 1
+10120, 0
+10121, 0
+10122, 1
+10123, 0 [Misclassified]
+10124, 1
+10125, 0 [Misclassified]
+10126, 0 [Misclassified]
+10127, 0
+10128, 1 [Misclassified]
+10129, 0
+10130, 0
+10131, 0
+10132, 0
+10133, 0
+10134, 0
+10135, 1 [Misclassified]
+10136, 1
+10137, 1 [Misclassified]
+10138, 0 [Misclassified]
+10139, 0
+10140, 0
+10141, 0 [Misclassified]
+10142, 0 [Misclassified]
+10143, 0
+10144, 1
+10145, 1 [Misclassified]
+10146, 0
+10147, 0
+10148, 1
+10149, 0
+10150, 1
+10151, 0 [Misclassified]
+10152, 1
+10153, 0
+10154, 0
+10155, 0
+10156, 1
+10157, 0
+10158, 0
+10159, 0
+10160, 1 [Misclassified]
+10161, 0
+10162, 0 [Misclassified]
+10163, 1
+10164, 0
+10165, 1
+10166, 0 [Misclassified]
+10167, 1
+10168, 0
+10169, 0
+10170, 1
+10171, 1
+10172, 0
+10173, 0
+10174, 1 [Misclassified]
+10175, 0
+10176, 0 [Misclassified]
+10177, 0 [Misclassified]
+10178, 1
+10179, 1
+10180, 0 [Misclassified]
+10181, 0 [Misclassified]
+10182, 0
+10183, 1
+10184, 1
+10185, 1
+10186, 0
+10187, 0
+10188, 0 [Misclassified]
+10189, 0 [Misclassified]
+10190, 1
+10191, 1
+10192, 0 [Misclassified]
+10193, 0
+10194, 1
+10195, 1 [Misclassified]
+10196, 0
+10197, 0 [Misclassified]
+10198, 0
+10199, 1
+10200, 1
+10201, 0
+10202, 0
+10203, 0
+10204, 1
+10205, 1 [Misclassified]
+10206, 1
+10207, 0 [Misclassified]
+10208, 1 [Misclassified]
+10209, 0 [Misclassified]
+10210, 1
+10211, 0
+10212, 0 [Misclassified]
+10213, 0
+10214, 0
+10215, 0 [Misclassified]
+10216, 0
+10217, 0
+10218, 0
+10219, 0
+10220, 1
+10221, 1
+10222, 1
+10223, 0
+10224, 0
+10225, 0
+10226, 1
+10227, 0 [Misclassified]
+10228, 1
+10229, 1
+10230, 1
+10231, 1
+10232, 0
+10233, 0
+10234, 1
+10235, 0
+10236, 0 [Misclassified]
+10237, 1
+10238, 1
+10239, 0
+10240, 1
+10241, 0
+10242, 1
+10243, 0 [Misclassified]
+10244, 0
+10245, 1
+10246, 1
+10247, 1
+10248, 1
+10249, 1
+10250, 1
+10251, 0
+10252, 0
+10253, 1
+10254, 0 [Misclassified]
+10255, 1
+10256, 0
+10257, 1
+10258, 0
+10259, 0 [Misclassified]
+10260, 0
+10261, 1
+10262, 0
+10263, 1
+10264, 0 [Misclassified]
+10265, 0 [Misclassified]
+10266, 0
+10267, 0
+10268, 1
+10269, 1
+10270, 0
+10271, 0
+10272, 1
+10273, 1
+10274, 1
+10275, 0
+10276, 0 [Misclassified]
+10277, 1 [Misclassified]
+10278, 1
+10279, 1
+10280, 0
+10281, 1
+10282, 1
+10283, 1
+10284, 0
+10285, 0
+10286, 1 [Misclassified]
+10287, 0
+10288, 0
+10289, 0 [Misclassified]
+10290, 0
+10291, 0
+10292, 0
+10293, 1
+10294, 0
+10295, 0
+10296, 0
+10297, 1
+10298, 0 [Misclassified]
+10299, 0
+10300, 0
+10301, 0 [Misclassified]
+10302, 0
+10303, 0
+10304, 1
+10305, 0
+10306, 0 [Misclassified]
+10307, 1
+10308, 0 [Misclassified]
+10309, 1
+10310, 1 [Misclassified]
+10311, 1
+10312, 1 [Misclassified]
+10313, 1
+10314, 1
+10315, 1
+10316, 1
+10317, 1 [Misclassified]
+10318, 1 [Misclassified]
+10319, 1
+10320, 1 [Misclassified]
+10321, 0
+10322, 0
+10323, 1
+10324, 0
+10325, 0 [Misclassified]
+10326, 0
+10327, 1 [Misclassified]
+10328, 0
+10329, 0
+10330, 0
+10331, 1
+10332, 0
+10333, 0 [Misclassified]
+10334, 1
+10335, 0 [Misclassified]
+10336, 1
+10337, 1
+10338, 1 [Misclassified]
+10339, 0
+10340, 0
+10341, 1
+10342, 1 [Misclassified]
+10343, 0 [Misclassified]
+10344, 1
+10345, 1
+10346, 0
+10347, 1
+10348, 1
+10349, 1
+10350, 0
+10351, 1 [Misclassified]
+10352, 0
+10353, 1
+10354, 1
+10355, 1 [Misclassified]
+10356, 1
+10357, 1
+10358, 0 [Misclassified]
+10359, 1
+10360, 0 [Misclassified]
+10361, 1 [Misclassified]
+10362, 0 [Misclassified]
+10363, 0 [Misclassified]
+10364, 0 [Misclassified]
+10365, 0
+10366, 1
+10367, 0 [Misclassified]
+10368, 1
+10369, 1
+10370, 1 [Misclassified]
+10371, 1 [Misclassified]
+10372, 1 [Misclassified]
+10373, 1
+10374, 0
+10375, 0
+10376, 1
+10377, 1
+10378, 1
+10379, 1 [Misclassified]
+10380, 0
+10381, 0
+10382, 1 [Misclassified]
+10383, 1
+10384, 0
+10385, 1
+10386, 0
+10387, 0
+10388, 0 [Misclassified]
+10389, 0 [Misclassified]
+10390, 1
+10391, 1
+10392, 1
+10393, 0 [Misclassified]
+10394, 1
+10395, 1 [Misclassified]
+10396, 1 [Misclassified]
+10397, 0
+10398, 1
+10399, 1
+10400, 0
+10401, 1
+10402, 0
+10403, 1
+10404, 0
+10405, 1 [Misclassified]
+10406, 1 [Misclassified]
+10407, 1
+10408, 1 [Misclassified]
+10409, 0 [Misclassified]
+10410, 0 [Misclassified]
+10411, 1
+10412, 1 [Misclassified]
+10413, 1
+10414, 0
+10415, 1 [Misclassified]
+10416, 0
+10417, 0
+10418, 0
+10419, 1
+10420, 0 [Misclassified]
+10421, 1 [Misclassified]
+10422, 0
+10423, 1
+10424, 1 [Misclassified]
+10425, 1
+10426, 1
+10427, 1
+10428, 1
+10429, 1 [Misclassified]
+10430, 0
+10431, 0
+10432, 1
+10433, 0 [Misclassified]
+10434, 1
+10435, 0 [Misclassified]
+10436, 1 [Misclassified]
+10437, 1 [Misclassified]
+10438, 1
+10439, 1
+10440, 0
+10441, 0
+10442, 1
+10443, 1
+10444, 1 [Misclassified]
+10445, 1
+10446, 0
+10447, 0
+10448, 1
+10449, 1
+10450, 0 [Misclassified]
+10451, 1
+10452, 1 [Misclassified]
+10453, 0
+10454, 1
+10455, 0
+10456, 1
+10457, 0
+10458, 1 [Misclassified]
+10459, 1 [Misclassified]
+10460, 1
+10461, 1
+10462, 0 [Misclassified]
+10463, 1
+10464, 0 [Misclassified]
+10465, 1
+10466, 1 [Misclassified]
+10467, 1
+10468, 0
+10469, 1
+10470, 0 [Misclassified]
+10471, 1 [Misclassified]
+10472, 0 [Misclassified]
+10473, 1
+10474, 0
+10475, 1
+10476, 0
+10477, 0
+10478, 1
+10479, 0 [Misclassified]
+10480, 1 [Misclassified]
+10481, 0 [Misclassified]
+10482, 0
+10483, 0
+10484, 1 [Misclassified]
+10485, 1
+10486, 1 [Misclassified]
+10487, 0 [Misclassified]
+10488, 0
+10489, 0 [Misclassified]
+10490, 0
+10491, 0
+10492, 1 [Misclassified]
+10493, 1
+10494, 0 [Misclassified]
+10495, 0
+10496, 1
+10497, 0
+10498, 0
+10499, 0
+10500, 0 [Misclassified]
+10501, 0 [Misclassified]
+10502, 1
+10503, 0 [Misclassified]
+10504, 0
+10505, 1
+10506, 0
+10507, 0
+10508, 0
+10509, 1
+10510, 1
+10511, 0 [Misclassified]
+10512, 1
+10513, 1
+10514, 1
+10515, 0
+10516, 0
+10517, 0
+10518, 0
+10519, 1
+10520, 0 [Misclassified]
+10521, 0
+10522, 1 [Misclassified]
+10523, 1
+10524, 1
+10525, 1
+10526, 0
+10527, 1
+10528, 1
+10529, 0
+10530, 0
+10531, 1
+10532, 1
+10533, 0 [Misclassified]
+10534, 1 [Misclassified]
+10535, 0
+10536, 1 [Misclassified]
+10537, 0
+10538, 0
+10539, 1
+10540, 0
+10541, 1
+10542, 1
+10543, 0
+10544, 0
+10545, 1 [Misclassified]
+10546, 0 [Misclassified]
+10547, 0
+10548, 1 [Misclassified]
+10549, 1 [Misclassified]
+10550, 1 [Misclassified]
+10551, 0 [Misclassified]
+10552, 1
+10553, 1 [Misclassified]
+10554, 1
+10555, 0 [Misclassified]
+10556, 1
+10557, 0
+10558, 1
+10559, 1 [Misclassified]
+10560, 0
+10561, 1
+10562, 1 [Misclassified]
+10563, 1
+10564, 1
+10565, 1
+10566, 0
+10567, 1 [Misclassified]
+10568, 0
+10569, 0
+10570, 0
+10571, 1
+10572, 1
+10573, 0
+10574, 0
+10575, 0
+10576, 1
+10577, 0
+10578, 0
+10579, 0
+10580, 1 [Misclassified]
+10581, 0
+10582, 0
+10583, 0 [Misclassified]
+10584, 1
+10585, 1
+10586, 0
+10587, 1
+10588, 0
+10589, 1
+10590, 1
+10591, 1
+10592, 0
+10593, 0
+10594, 0 [Misclassified]
+10595, 0
+10596, 1
+10597, 0
+10598, 1
+10599, 1
+10600, 1
+10601, 1
+10602, 1
+10603, 1 [Misclassified]
+10604, 0 [Misclassified]
+10605, 1 [Misclassified]
+10606, 1
+10607, 1
+10608, 1
+10609, 0 [Misclassified]
+10610, 0
+10611, 1
+10612, 1
+10613, 0
+10614, 0
+10615, 1
+10616, 0
+10617, 0 [Misclassified]
+10618, 1
+10619, 1 [Misclassified]
+10620, 0 [Misclassified]
+10621, 1 [Misclassified]
+10622, 0 [Misclassified]
+10623, 0
+10624, 0
+10625, 0
+10626, 0 [Misclassified]
+10627, 1 [Misclassified]
+10628, 0
+10629, 0
+10630, 0 [Misclassified]
+10631, 1
+10632, 0
+10633, 0
+10634, 0
+10635, 0
+10636, 0
+10637, 0
+10638, 0
+10639, 0 [Misclassified]
+10640, 0
+10641, 1 [Misclassified]
+10642, 1
+10643, 0
+10644, 1
+10645, 0 [Misclassified]
+10646, 0
+10647, 0
+10648, 0 [Misclassified]
+10649, 1
+10650, 1 [Misclassified]
+10651, 0
+10652, 0
+10653, 1
+10654, 1
+10655, 1
+10656, 1 [Misclassified]
+10657, 1 [Misclassified]
+10658, 1
+10659, 1
+10660, 0
+10661, 0 [Misclassified]
+10662, 1
+10663, 1
+10664, 1
+10665, 0
+10666, 1
+10667, 0
+10668, 1 [Misclassified]
+10669, 1
+10670, 0
+10671, 1
+10672, 0 [Misclassified]
+10673, 0 [Misclassified]
+10674, 0 [Misclassified]
+10675, 0 [Misclassified]
+10676, 1
+10677, 0 [Misclassified]
+10678, 1 [Misclassified]
+10679, 0
+10680, 0 [Misclassified]
+10681, 0
+10682, 0 [Misclassified]
+10683, 0
+10684, 0
+10685, 0 [Misclassified]
+10686, 0
+10687, 1
+10688, 0
+10689, 1
+10690, 1
+10691, 1
+10692, 1
+10693, 1
+10694, 1 [Misclassified]
+10695, 1 [Misclassified]
+10696, 0
+10697, 0
+10698, 0
+10699, 0
+10700, 1
+10701, 0
+10702, 1
+10703, 1 [Misclassified]
+10704, 0
+10705, 1
+10706, 0
+10707, 1
+10708, 0
+10709, 1
+10710, 0
+10711, 1 [Misclassified]
+10712, 0 [Misclassified]
+10713, 0
+10714, 1
+10715, 0 [Misclassified]
+10716, 1
+10717, 0 [Misclassified]
+10718, 0
+10719, 0 [Misclassified]
+10720, 1 [Misclassified]
+10721, 0
+10722, 0
+10723, 1 [Misclassified]
+10724, 1
+10725, 1 [Misclassified]
+10726, 1
+10727, 0 [Misclassified]
+10728, 1
+10729, 0
+10730, 0
+10731, 1
+10732, 1
+10733, 0
+10734, 0
+10735, 1 [Misclassified]
+10736, 0
+10737, 0
+10738, 0
+10739, 0
+10740, 1
+10741, 1
+10742, 1
+10743, 1 [Misclassified]
+10744, 1 [Misclassified]
+10745, 0
+10746, 1
+10747, 1
+10748, 0
+10749, 0
+10750, 0 [Misclassified]
+10751, 1
+10752, 0 [Misclassified]
+10753, 0
+10754, 1
+10755, 1
+10756, 0
+10757, 0 [Misclassified]
+10758, 0
+10759, 0
+10760, 0 [Misclassified]
+10761, 0
+10762, 1
+10763, 0
+10764, 0 [Misclassified]
+10765, 1
+10766, 1 [Misclassified]
+10767, 0
+10768, 0 [Misclassified]
+10769, 0
+10770, 1
+10771, 1
+10772, 0 [Misclassified]
+10773, 0 [Misclassified]
+10774, 0
+10775, 0 [Misclassified]
+10776, 1
+10777, 0
+10778, 1 [Misclassified]
+10779, 0
+10780, 1 [Misclassified]
+10781, 0
+10782, 0
+10783, 0
+10784, 1
+10785, 0 [Misclassified]
+10786, 0
+10787, 0
+10788, 1 [Misclassified]
+10789, 1
+10790, 1
+10791, 0
+10792, 1
+10793, 1
+10794, 0 [Misclassified]
+10795, 1 [Misclassified]
+10796, 0
+10797, 1 [Misclassified]
+10798, 1 [Misclassified]
+10799, 1 [Misclassified]
+10800, 0
+10801, 1
+10802, 0
+10803, 1
+10804, 0
+10805, 0
+10806, 0
+10807, 0 [Misclassified]
+10808, 1 [Misclassified]
+10809, 0
+10810, 0 [Misclassified]
+10811, 1
+10812, 1
+10813, 0
+10814, 0
+10815, 1
+10816, 0 [Misclassified]
+10817, 1
+10818, 0 [Misclassified]
+10819, 1
+10820, 0
+10821, 0
+10822, 1 [Misclassified]
+10823, 1
+10824, 0
+10825, 0
+10826, 1
+10827, 0
+10828, 1
+10829, 0 [Misclassified]
+10830, 0
+10831, 0 [Misclassified]
+10832, 1 [Misclassified]
+10833, 1
+10834, 1
+10835, 1
+10836, 1
+10837, 1 [Misclassified]
+10838, 1
+10839, 0
+10840, 0
+10841, 0
+10842, 1 [Misclassified]
+10843, 1
+10844, 0
+10845, 0
+10846, 1
+10847, 1 [Misclassified]
+10848, 1
+10849, 1 [Misclassified]
+10850, 1
+10851, 0
+10852, 1
+10853, 1
+10854, 1 [Misclassified]
+10855, 0
+10856, 0
+10857, 0
+10858, 0
+10859, 1 [Misclassified]
+10860, 0
+10861, 0 [Misclassified]
+10862, 0
+10863, 0 [Misclassified]
+10864, 0
+10865, 0
+10866, 0
+10867, 1 [Misclassified]
+10868, 0
+10869, 0 [Misclassified]
+10870, 0 [Misclassified]
+10871, 1 [Misclassified]
+10872, 1
+10873, 0
+10874, 1 [Misclassified]
+10875, 0
+10876, 1 [Misclassified]
+10877, 1
+10878, 1
+10879, 1
+10880, 0
+10881, 0
+10882, 1 [Misclassified]
+10883, 0 [Misclassified]
+10884, 1 [Misclassified]
+10885, 0
+10886, 1 [Misclassified]
+10887, 0
+10888, 0 [Misclassified]
+10889, 1
+10890, 1 [Misclassified]
+10891, 0
+10892, 0 [Misclassified]
+10893, 1
+10894, 0
+10895, 1
+10896, 1 [Misclassified]
+10897, 0
+10898, 1 [Misclassified]
+10899, 0
+10900, 0
+10901, 0
+10902, 0
+10903, 0
+10904, 1
+10905, 0
+10906, 0
+10907, 1 [Misclassified]
+10908, 1 [Misclassified]
+10909, 0
+10910, 1 [Misclassified]
+10911, 0
+10912, 1
+10913, 0
+10914, 0 [Misclassified]
+10915, 1
+10916, 1
+10917, 0
+10918, 0
+10919, 0
+10920, 1
+10921, 0 [Misclassified]
+10922, 0 [Misclassified]
+10923, 0
+10924, 0
+10925, 1
+10926, 1
+10927, 1 [Misclassified]
+10928, 0 [Misclassified]
+10929, 1
+10930, 1
+10931, 1 [Misclassified]
+10932, 1
+10933, 1
+10934, 1
+10935, 0
+10936, 0 [Misclassified]
+10937, 1
+10938, 0 [Misclassified]
+10939, 0
+10940, 1 [Misclassified]
+10941, 1
+10942, 1
+10943, 1
+10944, 1
+10945, 1
+10946, 0
+10947, 0
+10948, 0
+10949, 0 [Misclassified]
+10950, 0 [Misclassified]
+10951, 0
+10952, 1
+10953, 1 [Misclassified]
+10954, 0
+10955, 0
+10956, 1
+10957, 0
+10958, 0
+10959, 0
+10960, 1
+10961, 1 [Misclassified]
+10962, 0
+10963, 0 [Misclassified]
+10964, 0 [Misclassified]
+10965, 0
+10966, 1 [Misclassified]
+10967, 0
+10968, 0
+10969, 0
+10970, 0
+10971, 1 [Misclassified]
+10972, 0
+10973, 0
+10974, 1
+10975, 1
+10976, 1
+10977, 0
+10978, 1
+10979, 0
+10980, 1
+10981, 0
+10982, 0
+10983, 0
+10984, 0
+10985, 0
+10986, 0
+10987, 1
+10988, 1
+10989, 1
+10990, 1
+10991, 1
+10992, 0
+10993, 1
+10994, 1 [Misclassified]
+10995, 1
+10996, 1
+10997, 0
+10998, 0
+10999, 0
+11000, 0 [Misclassified]
+11001, 1
+11002, 0
+11003, 0
+11004, 1
+11005, 0
+11006, 1 [Misclassified]
+11007, 0
+11008, 0
+11009, 1
+11010, 0
+11011, 1 [Misclassified]
+11012, 0
+11013, 0
+11014, 0 [Misclassified]
+11015, 0
+11016, 1
+11017, 1
+11018, 1
+11019, 1
+11020, 0
+11021, 1 [Misclassified]
+11022, 0
+11023, 1
+11024, 0
+11025, 0
+11026, 0
+11027, 1 [Misclassified]
+11028, 1
+11029, 1
+11030, 1
+11031, 0 [Misclassified]
+11032, 1
+11033, 1 [Misclassified]
+11034, 0
+11035, 0 [Misclassified]
+11036, 0
+11037, 0
+11038, 0 [Misclassified]
+11039, 1
+11040, 0 [Misclassified]
+11041, 0
+11042, 1 [Misclassified]
+11043, 0
+11044, 1 [Misclassified]
+11045, 0 [Misclassified]
+11046, 1
+11047, 0
+11048, 0 [Misclassified]
+11049, 0 [Misclassified]
+11050, 1 [Misclassified]
+11051, 0
+11052, 1
+11053, 1
+11054, 0 [Misclassified]
+11055, 0
+11056, 1
+11057, 1
+11058, 1
+11059, 0
+11060, 1
+11061, 1
+11062, 0 [Misclassified]
+11063, 1
+11064, 1
+11065, 0
+11066, 0 [Misclassified]
+11067, 0
+11068, 1 [Misclassified]
+11069, 0
+11070, 0
+11071, 0
+11072, 0
+11073, 0 [Misclassified]
+11074, 0
+11075, 1
+11076, 1
+11077, 0 [Misclassified]
+11078, 1 [Misclassified]
+11079, 1
+11080, 1
+11081, 1 [Misclassified]
+11082, 1
+11083, 1
+11084, 1
+11085, 0 [Misclassified]
+11086, 1
+11087, 0
+11088, 1
+11089, 1 [Misclassified]
+11090, 1 [Misclassified]
+11091, 1 [Misclassified]
+11092, 1
+11093, 0
+11094, 1
+11095, 1 [Misclassified]
+11096, 1 [Misclassified]
+11097, 0
+11098, 1
+11099, 1
+11100, 1
+11101, 0
+11102, 1
+11103, 1 [Misclassified]
+11104, 1
+11105, 1
+11106, 1
+11107, 1
+11108, 0
+11109, 1
+11110, 0 [Misclassified]
+11111, 1
+11112, 0
+11113, 0
+11114, 1 [Misclassified]
+11115, 1
+11116, 1 [Misclassified]
+11117, 0 [Misclassified]
+11118, 0 [Misclassified]
+11119, 0
+11120, 1 [Misclassified]
+11121, 0
+11122, 1
+11123, 1 [Misclassified]
+11124, 0
+11125, 1 [Misclassified]
+11126, 1
+11127, 0
+11128, 0
+11129, 0
+11130, 1 [Misclassified]
+11131, 0
+11132, 0
+11133, 1
+11134, 1
+11135, 0
+11136, 1
+11137, 0
+11138, 0
+11139, 1 [Misclassified]
+11140, 0
+11141, 1 [Misclassified]
+11142, 0 [Misclassified]
+11143, 0
+11144, 1
+11145, 0 [Misclassified]
+11146, 1
+11147, 1
+11148, 0 [Misclassified]
+11149, 0 [Misclassified]
+11150, 0
+11151, 0
+11152, 1
+11153, 1
+11154, 0
+11155, 1
+11156, 0 [Misclassified]
+11157, 0 [Misclassified]
+11158, 0 [Misclassified]
+11159, 0 [Misclassified]
+11160, 1 [Misclassified]
+11161, 0
+11162, 0
+11163, 0
+11164, 0 [Misclassified]
+11165, 1 [Misclassified]
+11166, 1
+11167, 0
+11168, 0 [Misclassified]
+11169, 0
+11170, 0
+11171, 0
+11172, 0 [Misclassified]
+11173, 1
+11174, 0 [Misclassified]
+11175, 0
+11176, 0
+11177, 0
+11178, 0
+11179, 0
+11180, 1
+11181, 1
+11182, 0
+11183, 0
+11184, 1 [Misclassified]
+11185, 1
+11186, 1
+11187, 0
+11188, 1
+11189, 0 [Misclassified]
+11190, 0 [Misclassified]
+11191, 0
+11192, 1
+11193, 0
+11194, 0 [Misclassified]
+11195, 0 [Misclassified]
+11196, 0
+11197, 0
+11198, 0 [Misclassified]
+11199, 1 [Misclassified]
+11200, 0
+11201, 0
+11202, 0 [Misclassified]
+11203, 1 [Misclassified]
+11204, 1
+11205, 0
+11206, 0 [Misclassified]
+11207, 1
+11208, 1 [Misclassified]
+11209, 1
+11210, 0
+11211, 0
+11212, 0 [Misclassified]
+11213, 0
+11214, 0
+11215, 0
+11216, 0
+11217, 0
+11218, 0
+11219, 0
+11220, 1
+11221, 0
+11222, 1
+11223, 0 [Misclassified]
+11224, 1
+11225, 1
+11226, 1
+11227, 1
+11228, 0 [Misclassified]
+11229, 1
+11230, 1
+11231, 1
+11232, 0
+11233, 0
+11234, 0
+11235, 0
+11236, 1
+11237, 0
+11238, 1
+11239, 0 [Misclassified]
+11240, 1 [Misclassified]
+11241, 0
+11242, 1
+11243, 1
+11244, 1 [Misclassified]
+11245, 0 [Misclassified]
+11246, 1
+11247, 0
+11248, 1
+11249, 0 [Misclassified]
+11250, 0 [Misclassified]
+11251, 0 [Misclassified]
+11252, 1
+11253, 0
+11254, 0
+11255, 1 [Misclassified]
+11256, 1
+11257, 0
+11258, 0 [Misclassified]
+11259, 1 [Misclassified]
+11260, 1
+11261, 1
+11262, 0
+11263, 0 [Misclassified]
+11264, 0
+11265, 0
+11266, 0
+11267, 1 [Misclassified]
+11268, 1
+11269, 1
+11270, 0
+11271, 1
+11272, 1 [Misclassified]
+11273, 0
+11274, 0
+11275, 0 [Misclassified]
+11276, 0
+11277, 0
+11278, 0 [Misclassified]
+11279, 0
+11280, 1
+11281, 1 [Misclassified]
+11282, 1
+11283, 0 [Misclassified]
+11284, 0
+11285, 1
+11286, 0
+11287, 0 [Misclassified]
+11288, 0
+11289, 0
+11290, 1 [Misclassified]
+11291, 1 [Misclassified]
+11292, 1 [Misclassified]
+11293, 0
+11294, 1
+11295, 1 [Misclassified]
+11296, 1
+11297, 0 [Misclassified]
+11298, 1
+11299, 0 [Misclassified]
+11300, 0 [Misclassified]
+11301, 0
+11302, 1 [Misclassified]
+11303, 1
+11304, 0
+11305, 0
+11306, 0
+11307, 1
+11308, 1
+11309, 0 [Misclassified]
+11310, 1
+11311, 0 [Misclassified]
+11312, 1 [Misclassified]
+11313, 1 [Misclassified]
+11314, 0
+11315, 1
+11316, 1 [Misclassified]
+11317, 0 [Misclassified]
+11318, 0
+11319, 1
+11320, 0 [Misclassified]
+11321, 1 [Misclassified]
+11322, 1 [Misclassified]
+11323, 0 [Misclassified]
+11324, 1 [Misclassified]
+11325, 1
+11326, 1
+11327, 0
+11328, 1
+11329, 0 [Misclassified]
+11330, 0
+11331, 1
+11332, 1
+11333, 1
+11334, 1
+11335, 1
+11336, 0
+11337, 1 [Misclassified]
+11338, 0
+11339, 1 [Misclassified]
+11340, 1
+11341, 0
+11342, 1
+11343, 0
+11344, 0 [Misclassified]
+11345, 0
+11346, 1 [Misclassified]
+11347, 0
+11348, 1
+11349, 0
+11350, 0
+11351, 1
+11352, 0
+11353, 0
+11354, 0
+11355, 1 [Misclassified]
+11356, 1
+11357, 0
+11358, 1 [Misclassified]
+11359, 0
+11360, 1
+11361, 1 [Misclassified]
+11362, 1 [Misclassified]
+11363, 1
+11364, 1
+11365, 1
+11366, 1
+11367, 1 [Misclassified]
+11368, 0 [Misclassified]
+11369, 1
+11370, 0
+11371, 0
+11372, 1
+11373, 1
+11374, 0 [Misclassified]
+11375, 0
+11376, 0 [Misclassified]
+11377, 1 [Misclassified]
+11378, 0 [Misclassified]
+11379, 1 [Misclassified]
+11380, 1 [Misclassified]
+11381, 0
+11382, 1
+11383, 1 [Misclassified]
+11384, 0
+11385, 0 [Misclassified]
+11386, 1
+11387, 1 [Misclassified]
+11388, 0 [Misclassified]
+11389, 0
+11390, 0
+11391, 1
+11392, 0 [Misclassified]
+11393, 0
+11394, 0
+11395, 0
+11396, 0
+11397, 0
+11398, 1
+11399, 1
+11400, 0
+11401, 1
+11402, 1 [Misclassified]
+11403, 0
+11404, 0
+11405, 1 [Misclassified]
+11406, 0
+11407, 1 [Misclassified]
+11408, 1
+11409, 0
+11410, 1
+11411, 0
+11412, 0
+11413, 0 [Misclassified]
+11414, 0
+11415, 0
+11416, 0 [Misclassified]
+11417, 1
+11418, 0
+11419, 1
+11420, 1 [Misclassified]
+11421, 1
+11422, 0
+11423, 0
+11424, 1
+11425, 1 [Misclassified]
+11426, 1 [Misclassified]
+11427, 1
+11428, 0
+11429, 1 [Misclassified]
+11430, 1 [Misclassified]
+11431, 1
+11432, 0 [Misclassified]
+11433, 1 [Misclassified]
+11434, 0
+11435, 0
+11436, 0 [Misclassified]
+11437, 1
+11438, 0
+11439, 0
+11440, 0
+11441, 0
+11442, 1 [Misclassified]
+11443, 1
+11444, 0
+11445, 1
+11446, 0 [Misclassified]
+11447, 1
+11448, 1 [Misclassified]
+11449, 0
+11450, 0
+11451, 1 [Misclassified]
+11452, 0 [Misclassified]
+11453, 1 [Misclassified]
+11454, 0
+11455, 0
+11456, 1
+11457, 0
+11458, 0
+11459, 1
+11460, 1
+11461, 1
+11462, 0 [Misclassified]
+11463, 0
+11464, 0
+11465, 0 [Misclassified]
+11466, 1
+11467, 1
+11468, 1
+11469, 0
+11470, 0
+11471, 0 [Misclassified]
+11472, 0
+11473, 0 [Misclassified]
+11474, 0
+11475, 0
+11476, 0
+11477, 0
+11478, 0
+11479, 1
+11480, 0 [Misclassified]
+11481, 1 [Misclassified]
+11482, 1
+11483, 0
+11484, 0
+11485, 1
+11486, 1
+11487, 1 [Misclassified]
+11488, 1
+11489, 1
+11490, 0
+11491, 0
+11492, 0
+11493, 0
+11494, 0
+11495, 1
+11496, 0
+11497, 1
+11498, 1 [Misclassified]
+11499, 1
+11500, 0
+11501, 0
+11502, 0
+11503, 1 [Misclassified]
+11504, 0
+11505, 1 [Misclassified]
+11506, 0
+11507, 0
+11508, 0
+11509, 0 [Misclassified]
+11510, 1
+11511, 0
+11512, 0
+11513, 0
+11514, 1 [Misclassified]
+11515, 1 [Misclassified]
+11516, 1
+11517, 0 [Misclassified]
+11518, 0
+11519, 0
+11520, 1 [Misclassified]
+11521, 1 [Misclassified]
+11522, 0
+11523, 1
+11524, 1 [Misclassified]
+11525, 0 [Misclassified]
+11526, 1
+11527, 1 [Misclassified]
+11528, 0
+11529, 0
+11530, 0
+11531, 0 [Misclassified]
+11532, 1
+11533, 1
+11534, 0
+11535, 1
+11536, 1
+11537, 1 [Misclassified]
+11538, 1
+11539, 1
+11540, 1
+11541, 1 [Misclassified]
+11542, 0
+11543, 1
+11544, 0
+11545, 0
+11546, 1
+11547, 1
+11548, 1
+11549, 1
+11550, 0 [Misclassified]
+11551, 1 [Misclassified]
+11552, 0
+11553, 0 [Misclassified]
+11554, 1
+11555, 0
+11556, 0
+11557, 1 [Misclassified]
+11558, 0
+11559, 1
+11560, 1
+11561, 0 [Misclassified]
+11562, 1
+11563, 1 [Misclassified]
+11564, 0
+11565, 0 [Misclassified]
+11566, 1
+11567, 0
+11568, 1
+11569, 0
+11570, 1 [Misclassified]
+11571, 0 [Misclassified]
+11572, 1
+11573, 1
+11574, 1
+11575, 1 [Misclassified]
+11576, 0
+11577, 0
+11578, 1 [Misclassified]
+11579, 1
+11580, 1
+11581, 1
+11582, 1
+11583, 1
+11584, 0
+11585, 0
+11586, 0
+11587, 1
+11588, 0
+11589, 0 [Misclassified]
+11590, 0
+11591, 0
+11592, 0 [Misclassified]
+11593, 1 [Misclassified]
+11594, 1 [Misclassified]
+11595, 1
+11596, 0 [Misclassified]
+11597, 0
+11598, 0 [Misclassified]
+11599, 0
+11600, 1
+11601, 0
+11602, 0 [Misclassified]
+11603, 1
+11604, 0
+11605, 0 [Misclassified]
+11606, 0
+11607, 1
+11608, 1 [Misclassified]
+11609, 1
+11610, 0
+11611, 0 [Misclassified]
+11612, 0
+11613, 0
+11614, 0
+11615, 1
+11616, 0 [Misclassified]
+11617, 0
+11618, 1 [Misclassified]
+11619, 0
+11620, 1
+11621, 1
+11622, 1 [Misclassified]
+11623, 0 [Misclassified]
+11624, 0 [Misclassified]
+11625, 1 [Misclassified]
+11626, 0 [Misclassified]
+11627, 0
+11628, 0
+11629, 1
+11630, 1 [Misclassified]
+11631, 1
+11632, 0
+11633, 0
+11634, 1
+11635, 1
+11636, 0
+11637, 0
+11638, 0
+11639, 0 [Misclassified]
+11640, 0 [Misclassified]
+11641, 0
+11642, 1
+11643, 0 [Misclassified]
+11644, 1
+11645, 0 [Misclassified]
+11646, 0
+11647, 1 [Misclassified]
+11648, 1 [Misclassified]
+11649, 0 [Misclassified]
+11650, 1
+11651, 0 [Misclassified]
+11652, 0 [Misclassified]
+11653, 0 [Misclassified]
+11654, 1
+11655, 0
+11656, 1
+11657, 0
+11658, 1
+11659, 0 [Misclassified]
+11660, 0
+11661, 1 [Misclassified]
+11662, 1
+11663, 0 [Misclassified]
+11664, 1
+11665, 0 [Misclassified]
+11666, 1 [Misclassified]
+11667, 0
+11668, 1
+11669, 1 [Misclassified]
+11670, 0 [Misclassified]
+11671, 1
+11672, 1 [Misclassified]
+11673, 1
+11674, 1 [Misclassified]
+11675, 0
+11676, 1
+11677, 0
+11678, 0
+11679, 1
+11680, 1 [Misclassified]
+11681, 1
+11682, 0
+11683, 1 [Misclassified]
+11684, 1 [Misclassified]
+11685, 0 [Misclassified]
+11686, 1
+11687, 1
+11688, 1
+11689, 0
+11690, 1
+11691, 1
+11692, 1
+11693, 1
+11694, 0 [Misclassified]
+11695, 1
+11696, 1
+11697, 0
+11698, 1 [Misclassified]
+11699, 0
+11700, 0
+11701, 1
+11702, 0 [Misclassified]
+11703, 1
+11704, 1
+11705, 1
+11706, 1 [Misclassified]
+11707, 1 [Misclassified]
+11708, 1
+11709, 1
+11710, 0 [Misclassified]
+11711, 1
+11712, 1
+11713, 1
+11714, 0 [Misclassified]
+11715, 1
+11716, 0
+11717, 0
+11718, 0
+11719, 1
+11720, 1
+11721, 1 [Misclassified]
+11722, 1
+11723, 0
+11724, 0 [Misclassified]
+11725, 1 [Misclassified]
+11726, 0 [Misclassified]
+11727, 1
+11728, 0
+11729, 1 [Misclassified]
+11730, 1 [Misclassified]
+11731, 0
+11732, 0
+11733, 1
+11734, 1 [Misclassified]
+11735, 1
+11736, 1 [Misclassified]
+11737, 0
+11738, 0
+11739, 1
+11740, 0
+11741, 0
+11742, 1
+11743, 1
+11744, 0
+11745, 0
+11746, 1
+11747, 1 [Misclassified]
+11748, 1
+11749, 0
+11750, 1
+11751, 1 [Misclassified]
+11752, 1
+11753, 0 [Misclassified]
+11754, 1 [Misclassified]
+11755, 1 [Misclassified]
+11756, 0
+11757, 0
+11758, 1
+11759, 1 [Misclassified]
+11760, 1 [Misclassified]
+11761, 0
+11762, 0
+11763, 1
+11764, 1
+11765, 0
+11766, 1 [Misclassified]
+11767, 1
+11768, 1
+11769, 1
+11770, 1 [Misclassified]
+11771, 1
+11772, 1 [Misclassified]
+11773, 0 [Misclassified]
+11774, 0
+11775, 0
+11776, 0
+11777, 1
+11778, 1
+11779, 1 [Misclassified]
+11780, 0 [Misclassified]
+11781, 0
+11782, 0
+11783, 0 [Misclassified]
+11784, 1 [Misclassified]
+11785, 1
+11786, 1
+11787, 0 [Misclassified]
+11788, 1
+11789, 0
+11790, 0 [Misclassified]
+11791, 1
+11792, 1
+11793, 0
+11794, 1
+11795, 0
+11796, 1
+11797, 0
+11798, 1
+11799, 0
+11800, 1
+11801, 0 [Misclassified]
+11802, 0
+11803, 1
+11804, 0
+11805, 0
+11806, 0 [Misclassified]
+11807, 1
+11808, 0
+11809, 0 [Misclassified]
+11810, 1
+11811, 0 [Misclassified]
+11812, 1
+11813, 1
+11814, 0
+11815, 1
+11816, 1 [Misclassified]
+11817, 1 [Misclassified]
+11818, 1
+11819, 0
+11820, 0
+11821, 0
+11822, 1
+11823, 0
+11824, 1 [Misclassified]
+11825, 1 [Misclassified]
+11826, 0 [Misclassified]
+11827, 1
+11828, 0
+11829, 1
+11830, 1
+11831, 0 [Misclassified]
+11832, 1
+11833, 1
+11834, 1
+11835, 1
+11836, 1 [Misclassified]
+11837, 1
+11838, 0 [Misclassified]
+11839, 1 [Misclassified]
+11840, 0
+11841, 1
+11842, 1
+11843, 1 [Misclassified]
+11844, 0
+11845, 0
+11846, 1 [Misclassified]
+11847, 0
+11848, 1
+11849, 0 [Misclassified]
+11850, 0
+11851, 0
+11852, 0 [Misclassified]
+11853, 0 [Misclassified]
+11854, 1
+11855, 0
+11856, 1
+11857, 1 [Misclassified]
+11858, 0
+11859, 0
+11860, 0
+11861, 0
+11862, 1
+11863, 0
+11864, 0
+11865, 0
+11866, 0 [Misclassified]
+11867, 1
+11868, 0
+11869, 0 [Misclassified]
+11870, 0
+11871, 0 [Misclassified]
+11872, 0
+11873, 0
+11874, 1
+11875, 1 [Misclassified]
+11876, 1
+11877, 0 [Misclassified]
+11878, 1 [Misclassified]
+11879, 0
+11880, 0 [Misclassified]
+11881, 0 [Misclassified]
+11882, 1
+11883, 0 [Misclassified]
+11884, 0
+11885, 0
+11886, 1 [Misclassified]
+11887, 0
+11888, 1
+11889, 1
+11890, 0
+11891, 1
+11892, 1
+11893, 1
+11894, 1
+11895, 0
+11896, 0
+11897, 1 [Misclassified]
+11898, 1
+11899, 0
+11900, 1 [Misclassified]
+11901, 1
+11902, 0 [Misclassified]
+11903, 0
+11904, 1 [Misclassified]
+11905, 1 [Misclassified]
+11906, 0 [Misclassified]
+11907, 0
+11908, 0
+11909, 1 [Misclassified]
+11910, 1
+11911, 1
+11912, 0
+11913, 0
